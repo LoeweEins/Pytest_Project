@@ -1,0 +1,6 @@
+*.html
+.pytest_cache/
+__pycache__/
+*.log
+.env
+.DS_Store
